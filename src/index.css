@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.MenuButton:hover {
+    background-color: transparent; /* or any other color you prefer */
+  }
